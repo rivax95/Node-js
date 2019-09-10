@@ -1,0 +1,16 @@
+{
+  "name": "miapp",
+  "version": "1.0.0",
+  "description": "app line comands\u001b[D\u001b[D\u001b[D\u001b[Dm",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "ISC"
+}
